@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T01:53:52.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="IUQCM51Wxd-iFQQaXJJr" version="15.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-27T02:23:27.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="_W33B1ivjxRm16p6xPv7" version="15.0.2" type="github">
   <diagram id="A1Nl1LmutE4I7G2CyRuD" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,8 +262,17 @@
         <mxCell id="rRqUTzDC0UyUlkHTnYrC-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="68" y="1179" width="510" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rRqUTzDC0UyUlkHTnYrC-45" value="GraphCompiler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="79" y="1220" width="240" height="50" as="geometry" />
+        <mxCell id="rRqUTzDC0UyUlkHTnYrC-45" value="Nob-based autotune" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201.75" y="1220" width="108" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rRqUTzDC0UyUlkHTnYrC-46" value="autoschedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1220" width="108" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rRqUTzDC0UyUlkHTnYrC-47" value="default schedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="77" y="1220" width="108" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rRqUTzDC0UyUlkHTnYrC-49" value="&lt;font face=&quot;Tahoma&quot;&gt;autotune&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="299" y="1190" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
