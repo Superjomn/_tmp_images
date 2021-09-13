@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T06:53:12.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="JtzzonenTi6OOzktMuPF" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T06:53:49.344Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="pKY0w46k3P7A61MLFakU" version="15.1.0" type="github">
   <diagram id="GxNI4ELrak_cYE8rbx2q" name="Page-1">
     <mxGraphModel dx="1035" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,14 +28,32 @@
         <mxCell id="yM8qExxlLqgXMP_JVz0i-2" value="Hardware independent optimization" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="220" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yM8qExxlLqgXMP_JVz0i-6" target="yM8qExxlLqgXMP_JVz0i-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yM8qExxlLqgXMP_JVz0i-6" value="ARM CPU Dialect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="yM8qExxlLqgXMP_JVz0i-7" target="yM8qExxlLqgXMP_JVz0i-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yM8qExxlLqgXMP_JVz0i-7" value="OpenCL Dialect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yM8qExxlLqgXMP_JVz0i-8" target="yM8qExxlLqgXMP_JVz0i-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yM8qExxlLqgXMP_JVz0i-8" target="yM8qExxlLqgXMP_JVz0i-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yM8qExxlLqgXMP_JVz0i-8" value="NV GPU Dialect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yM8qExxlLqgXMP_JVz0i-9" target="yM8qExxlLqgXMP_JVz0i-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yM8qExxlLqgXMP_JVz0i-9" target="yM8qExxlLqgXMP_JVz0i-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yM8qExxlLqgXMP_JVz0i-9" value="x86 Dialect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="520" width="100" height="50" as="geometry" />
