@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T06:45:16.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="15.1.0" etag="p8KgW78_yKzqwtwIYi_K" type="github"><diagram id="GxNI4ELrak_cYE8rbx2q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-13T06:52:40.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="LM0R8jlMus4LktSOJcQ5" version="15.1.0" type="github">
+  <diagram id="GxNI4ELrak_cYE8rbx2q" name="Page-1">
+    <mxGraphModel dx="1035" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1" source="yM8qExxlLqgXMP_JVz0i-1" target="yM8qExxlLqgXMP_JVz0i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yM8qExxlLqgXMP_JVz0i-1" target="yM8qExxlLqgXMP_JVz0i-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yM8qExxlLqgXMP_JVz0i-1" target="yM8qExxlLqgXMP_JVz0i-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yM8qExxlLqgXMP_JVz0i-1" target="yM8qExxlLqgXMP_JVz0i-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yM8qExxlLqgXMP_JVz0i-1" target="yM8qExxlLqgXMP_JVz0i-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-1" value="Padle Dialect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="380" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="yM8qExxlLqgXMP_JVz0i-2" target="yM8qExxlLqgXMP_JVz0i-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-2" value="Hardware independent optimization" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-6" value="ARM CPU Dialect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-7" value="OpenCL Dialect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-8" value="NV GPU Dialect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-9" value="x86 Dialect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="520" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-10" value="OpenVino Dialect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-11" value="TensorRT Dialect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="350" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yM8qExxlLqgXMP_JVz0i-19" value="NNAdapter Dialect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
