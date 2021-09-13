@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T05:39:35.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="TTIZuJwAd8kPCPab04gO" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T05:42:06.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="AiDYePFMM-zCXKTJG4U9" version="15.1.0" type="github">
   <diagram id="wW7M70kCXAuxhLI22_DI" name="Page-1">
     <mxGraphModel dx="1035" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,6 +60,39 @@
         </mxCell>
         <mxCell id="zlN1Ve-jT4t-Uw-fLpNW-20" value="Runtime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="330" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zlN1Ve-jT4t-Uw-fLpNW-24" value="Paddle Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zlN1Ve-jT4t-Uw-fLpNW-25" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zlN1Ve-jT4t-Uw-fLpNW-26" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="330" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zlN1Ve-jT4t-Uw-fLpNW-27" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="490" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zlN1Ve-jT4t-Uw-fLpNW-28" value="Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="670" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zlN1Ve-jT4t-Uw-fLpNW-29" value="Mobile &amp;amp; IoT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="670" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zlN1Ve-jT4t-Uw-fLpNW-30" value="IoT Micro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="670" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zlN1Ve-jT4t-Uw-fLpNW-33" value="Runtime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zlN1Ve-jT4t-Uw-fLpNW-40" value="IR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="580" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zlN1Ve-jT4t-Uw-fLpNW-41" value="Runtime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zlN1Ve-jT4t-Uw-fLpNW-42" value="Runtime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="720" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
