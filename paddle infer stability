@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T10:55:25.772Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="uf8EdI7zbw1nvaZIHv9t" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T10:58:07.487Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="tpn6iIwZL_jYSgrezGAq" version="15.2.7" type="github">
   <diagram id="J3qvOGAw8KO3JWNk52VI" name="Page-1">
     <mxGraphModel dx="2125" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,16 +134,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JZUS4Nt5jc1PzRwPHogR-44" value="训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="820" width="90" height="50" as="geometry" />
+          <mxGeometry x="-90" y="840" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="1" source="JZUS4Nt5jc1PzRwPHogR-45" target="JZUS4Nt5jc1PzRwPHogR-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JZUS4Nt5jc1PzRwPHogR-45" value="Model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="820" width="90" height="50" as="geometry" />
+          <mxGeometry x="70" y="840" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JZUS4Nt5jc1PzRwPHogR-46" value="(1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="10" y="820" width="40" height="20" as="geometry" />
+          <mxGeometry x="10" y="840" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JZUS4Nt5jc1PzRwPHogR-52" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="240" y="800" width="310" height="80" as="geometry" />
+          <mxGeometry x="240" y="825" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JZUS4Nt5jc1PzRwPHogR-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JZUS4Nt5jc1PzRwPHogR-52">
           <mxGeometry width="310" height="80" as="geometry" />
@@ -154,29 +157,44 @@
         <mxCell id="JZUS4Nt5jc1PzRwPHogR-55" value="Fuse Passes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZUS4Nt5jc1PzRwPHogR-52">
           <mxGeometry x="110" y="15" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JZUS4Nt5jc1PzRwPHogR-56" value="Engine Passes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZUS4Nt5jc1PzRwPHogR-52">
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-56" value="Hardware Dialect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZUS4Nt5jc1PzRwPHogR-52">
           <mxGeometry x="210" y="15" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JZUS4Nt5jc1PzRwPHogR-58" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="710" width="20" height="250" as="geometry" />
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="JZUS4Nt5jc1PzRwPHogR-53" target="JZUS4Nt5jc1PzRwPHogR-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JZUS4Nt5jc1PzRwPHogR-59" value="ARM CPU Kernels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="750" width="90" height="50" as="geometry" />
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-70" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="640" y="696" width="120" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="JZUS4Nt5jc1PzRwPHogR-60" value="NNAdapter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="990" width="90" height="50" as="geometry" />
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-58" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="JZUS4Nt5jc1PzRwPHogR-70">
+          <mxGeometry y="19" width="20" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="JZUS4Nt5jc1PzRwPHogR-61" value="OpenCL Kernels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="810" width="90" height="50" as="geometry" />
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-69" value="" style="group" vertex="1" connectable="0" parent="JZUS4Nt5jc1PzRwPHogR-70">
+          <mxGeometry x="30" width="90" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="JZUS4Nt5jc1PzRwPHogR-62" value="Metal Kernels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="870" width="90" height="50" as="geometry" />
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-59" value="ARM CPU Kernels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZUS4Nt5jc1PzRwPHogR-69">
+          <mxGeometry y="60" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JZUS4Nt5jc1PzRwPHogR-63" value="x86 Kernels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="930" width="90" height="50" as="geometry" />
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-60" value="NNAdapter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZUS4Nt5jc1PzRwPHogR-69">
+          <mxGeometry y="300" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JZUS4Nt5jc1PzRwPHogR-66" value="Fused Op" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="690" width="90" height="50" as="geometry" />
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-61" value="OpenCL Kernels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZUS4Nt5jc1PzRwPHogR-69">
+          <mxGeometry y="120" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-62" value="Metal Kernels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZUS4Nt5jc1PzRwPHogR-69">
+          <mxGeometry y="180" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-63" value="x86 Kernels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZUS4Nt5jc1PzRwPHogR-69">
+          <mxGeometry y="240" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-66" value="Fused Op" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JZUS4Nt5jc1PzRwPHogR-69">
+          <mxGeometry width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-71" value="(2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JZUS4Nt5jc1PzRwPHogR-72" value="(2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="696" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
