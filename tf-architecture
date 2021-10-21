@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T09:16:50.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="uzD8M6RFwPG9dBLP259V" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T10:21:17.991Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="OOQ_x1gGU3kQYu_D_r2L" version="15.5.7" type="github">
   <diagram id="KG7BvBIboYRAWhGHAFWc" name="Page-1">
     <mxGraphModel dx="1298" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="A2ILGzk5eMcEOEoNuJSg-14" value="Eager mode / Serialized script" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A2ILGzk5eMcEOEoNuJSg-15" value="IR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A2ILGzk5eMcEOEoNuJSg-15" value="JIT IR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="1560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A2ILGzk5eMcEOEoNuJSg-17" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -143,6 +143,12 @@
         </mxCell>
         <mxCell id="A2ILGzk5eMcEOEoNuJSg-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;TF-Lite&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="712" y="210" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A2ILGzk5eMcEOEoNuJSg-52" value="Passes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="136" y="1640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A2ILGzk5eMcEOEoNuJSg-53" value="_optimize_for_mobile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="1640" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
