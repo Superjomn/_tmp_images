@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T12:20:56.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="k7WQctoRSK000QtI_rqk" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-22T12:21:47.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="eOSHmZqDDQfMS0-M9dje" version="15.5.7" type="github">
   <diagram id="OK6-vwCXTCh-dlWnl3EN" name="Page-1">
     <mxGraphModel dx="1298" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="GctJTzEbkkCPuwblg5-j-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GctJTzEbkkCPuwblg5-j-2" target="GctJTzEbkkCPuwblg5-j-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GctJTzEbkkCPuwblg5-j-2" value="MLIR Passes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GctJTzEbkkCPuwblg5-j-2" value="MLIR Passes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="330" y="210" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GctJTzEbkkCPuwblg5-j-3" value="HostRuntime" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="GctJTzEbkkCPuwblg5-j-4" value="x86 Dialect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-8">
           <mxGeometry width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GctJTzEbkkCPuwblg5-j-5" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-8">
+        <mxCell id="GctJTzEbkkCPuwblg5-j-5" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-8">
           <mxGeometry y="20" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GctJTzEbkkCPuwblg5-j-9" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="GctJTzEbkkCPuwblg5-j-6" value="GPU Dialect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-9">
           <mxGeometry width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GctJTzEbkkCPuwblg5-j-7" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-9">
+        <mxCell id="GctJTzEbkkCPuwblg5-j-7" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-9">
           <mxGeometry y="20" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GctJTzEbkkCPuwblg5-j-10" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -43,7 +43,7 @@
         <mxCell id="GctJTzEbkkCPuwblg5-j-11" value="ARM CPU Dialect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-10">
           <mxGeometry width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GctJTzEbkkCPuwblg5-j-12" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-10">
+        <mxCell id="GctJTzEbkkCPuwblg5-j-12" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-10">
           <mxGeometry y="20" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GctJTzEbkkCPuwblg5-j-15" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -52,7 +52,7 @@
         <mxCell id="GctJTzEbkkCPuwblg5-j-16" value="OpenCL Dialect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-15">
           <mxGeometry width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GctJTzEbkkCPuwblg5-j-17" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-15">
+        <mxCell id="GctJTzEbkkCPuwblg5-j-17" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-15">
           <mxGeometry y="20" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GctJTzEbkkCPuwblg5-j-18" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -61,7 +61,7 @@
         <mxCell id="GctJTzEbkkCPuwblg5-j-19" value="Other Dialect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-18">
           <mxGeometry width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GctJTzEbkkCPuwblg5-j-20" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-18">
+        <mxCell id="GctJTzEbkkCPuwblg5-j-20" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-18">
           <mxGeometry y="20" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GctJTzEbkkCPuwblg5-j-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GctJTzEbkkCPuwblg5-j-4" target="GctJTzEbkkCPuwblg5-j-2">
