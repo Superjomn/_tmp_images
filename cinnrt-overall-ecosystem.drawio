@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T12:58:33.786Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="glaSgV7Vm0Bomyyvf_Az" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-22T12:59:06.685Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="-BmR2b1sPNheOwyjMbRB" version="15.5.7" type="github">
   <diagram id="OK6-vwCXTCh-dlWnl3EN" name="Page-1">
     <mxGraphModel dx="1298" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,16 +97,16 @@
         <mxCell id="GctJTzEbkkCPuwblg5-j-48" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="156" y="455" width="470" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GctJTzEbkkCPuwblg5-j-5" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-48">
+        <mxCell id="GctJTzEbkkCPuwblg5-j-5" value="x86 Kernels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-48">
           <mxGeometry width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GctJTzEbkkCPuwblg5-j-7" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-48">
+        <mxCell id="GctJTzEbkkCPuwblg5-j-7" value="GPU Kernels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-48">
           <mxGeometry x="120" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GctJTzEbkkCPuwblg5-j-12" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-48">
+        <mxCell id="GctJTzEbkkCPuwblg5-j-12" value="ARM CPU Kernels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-48">
           <mxGeometry x="240" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GctJTzEbkkCPuwblg5-j-20" value="Kernels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-48">
+        <mxCell id="GctJTzEbkkCPuwblg5-j-20" value="Other Kernels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GctJTzEbkkCPuwblg5-j-48">
           <mxGeometry x="360" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
